@@ -76,6 +76,8 @@ export default function Home() {
               </div>
             </div>
           </div>
+
+          <button className="bg-green-200 text-green-950 px-8 py-3 mt-16 rounded border-green-950 border-2 font-bold text-xl">MAKE IT RAIN</button>
         </div>
       </div>
 
