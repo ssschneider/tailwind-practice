@@ -1,7 +1,11 @@
+import Input from "./components/input";
+import { UserIcon } from "@heroicons/react/24/outline";
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="">
       <p>page for tailwind, next and ts</p>
+      {/* <Input field="name" icon={UserIcon} placeholder="Your name"/> */}
     </main>
   );
 }
