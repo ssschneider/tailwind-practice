@@ -28,7 +28,7 @@ This project was developed using:
 
 ## 💻 Deploy
 
-> [Click here to view the project!](link)
+> [Click here to view the project!](https://tailwind-practice-pied.vercel.app/)
 
 
 <!-- ## 💻 Rode Local
@@ -44,7 +44,7 @@ Para rodar o projeto localmente, basta cumprir as seguintes etapas:
 Make it Rain! é uma landing page não-interativa desenvolvida com o objetivo de praticar TailwindCSS. Para desenvolver essa aplicação eu usei:
 - TailwindCSS, TypeScript, NextJS, Hero Icons, PostCSS, ESLint e Figma
 
-Para ver a aplicação rodando é só [clicar aqui](link) !
+Para ver a aplicação rodando é só [clicar aqui](https://tailwind-practice-pied.vercel.app/) !
 <!-- or run locally following these steps:
 ```
 ETAPAS PARA RODAR LOCAL EM PROJETOS MAIS COMPLEXOS
